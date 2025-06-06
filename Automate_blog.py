@@ -278,3 +278,6 @@ def main():
 
     with open('index2.html', 'w') as file:
         file.write(final_html)
+
+if __name__ == "__main__":
+    main()
