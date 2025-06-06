@@ -231,7 +231,7 @@ section_point_list_tag = '''<ul style="list-style-type: disc">[[UL_TAG_PARA]]</u
 #
 def main():
 
-    upload_doc  = files.upload()
+    #upload_doc  = files.upload()
     doc_file = 'blog_test.docx'
 
     doc = Document(doc_file)
